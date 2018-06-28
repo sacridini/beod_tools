@@ -2,7 +2,7 @@
 check_zeros
 Description: App to check the quality of the biodiversity rasters (Projeto Global)
 Version: 0.1
-Eduardo Ribeiro Lacerda <eduardolacerdageo@gmail.com>
+Eduardo Ribeiro Lacerda <e.lacerda@iis-rio.org>
 International Institute for Sustainability (IIS) - 2018
 */
 
